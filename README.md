@@ -28,7 +28,7 @@ DB_PORT=
 PORT = 
 ```
 
-### 4. And run this project 
+### 4. And run the project 
 ```
 nodemon index.js or  node index.js
 ``` 
